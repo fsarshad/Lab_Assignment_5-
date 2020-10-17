@@ -58,8 +58,8 @@ Remove Method
 -     1->2->3->4
      
 
-6. If you want to change the length or the numbers of numbers in the list than go to line 151 and switch the 6 in: i < 6  to whatever number to you please along
-      with the position you want it to be. 
+6. If you want to change the length or the numbers of numbers in the list than go to line 151 and switch the 6 in i < 6  to whatever number you please along
+      with the position you want it to be in line 160. 
 
 Reverse Method 
 
