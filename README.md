@@ -37,7 +37,9 @@ Get Method
       1->2->3->4->5
      
                 3
-7. If you want the position to be 3 and output to be 4 then go to line 159 and change the 2 to 3 and the output for position 3 will be 4. 
+7. If you want the position to be 3 and output to be 4 then go to line 159 and change the 2 to 3 and the output for position 3 will be 4. Same list as before as wll
+             1->2->3->4->5
+        
 8. If you want to inrease the list length:
       - For example you want it to be 20 than go to line 151 switch it to: i < 20
       - Go back to 159 and input whatever position you want to get. So if I want position 5 (put it inside the list.get() in line 159 
