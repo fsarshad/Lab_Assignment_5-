@@ -51,9 +51,12 @@ Remove Method
 2. Keep line 158 uncommented 
 3. Also uncomment out line 160, and 161 
 4. Go to line 151 change the i < 20 back to i < 6 and because the position is already set to 4 you can just run the program. 
-5. The output will be: 
-      5 (is number being remove d) 
+5. The output will be like this: 
+
+      1->2->3->4->5
+      5 (is number being remove) 
       1->2->3->4
+      
 6. I am not sure why the number being removed at its position is also showing but it other than that it works. 
 7. If you want to change the length or the numbers of numbers in the list than go to line 151 and switch the 6 in: i < 6  to whatever number to you please along
       with the position you want it to be. 
