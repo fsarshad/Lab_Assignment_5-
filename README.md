@@ -35,7 +35,8 @@ Get Method
 5. Once you adjusted line 151 or already had line 151 from the beginning to be i < 6 run the program if you want the position to be 2 and output to be 3. 
 6. Output should look like this:
       1->2->3->4->5
-      3
+     
+     3
 7. If you want the position to be 3 and output to be 4 then go to line 159 and change the 2 to 3 and the output for position 3 will be 4. 
 8. If you want to inrease the list length:
       - For example you want it to be 20 than go to line 151 switch it to: i < 20
