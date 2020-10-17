@@ -54,7 +54,7 @@ Remove Method
 5. The output will be like this: 
 
      1->2->3->4->5
-        5
+        5 (number being remove)
      1->2->3->4
      
 6. I am not sure why the number being removed at its position is also showing but it other than that it works. 
